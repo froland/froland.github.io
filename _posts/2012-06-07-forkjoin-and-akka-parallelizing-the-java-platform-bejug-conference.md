@@ -31,7 +31,7 @@ But as Sander quote: &#8220;the number of idle cores in my machine doubles every
 
 The first demos are declined around the computation of Fibonacci&#8217;s suite whose definition is
 
-[<img class="aligncenter size-medium wp-image-60" title="Fibonacci's suite equation" src="http://www.froland.be/images/uploads/2012/05/fibonacci.jpg?w=300" alt="" width="300" height="52" srcset="https://www.froland.be/images/uploads/2012/05/fibonacci.jpg 750w, https://www.froland.be/images/uploads/2012/05/fibonacci-300x52.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.froland.be/images/uploads/2012/05/fibonacci.jpg)
+[<img class="aligncenter size-medium wp-image-60" title="Fibonacci's suite equation" src="{{ site.baseurl }}/imagesuploads/2012/05/fibonacci.jpg?w=300" alt="" width="300" height="52" srcset="{{ site.baseurl }}/images/uploads/2012/05/fibonacci.jpg 750w, {{ site.baseurl }}/images/uploads/2012/05/fibonacci-300x52.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/imagesuploads/2012/05/fibonacci.jpg)
 
 Of course, the objective here is not to find an optimal solution to that problem (transforming the recursive definition into an iterative form) but just apply a concurrent computation of the recursive form.
 

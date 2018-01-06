@@ -49,7 +49,7 @@ Tangles occur when some code in a package reference code in another package whic
 
 Both fatness and tangles can be approximated by automatically by metrics which make them good candidate for automatic checking using thresholds (e.g. in your build system).
 
-[<img class="alignnone size-medium wp-image-47" title="tangle-fat schema" src="http://www.froland.be/images/uploads/2012/05/tangle-fat-schema.jpg?w=300" alt="" width="300" height="190" srcset="https://www.froland.be/images/uploads/2012/05/tangle-fat-schema.jpg 512w, https://www.froland.be/images/uploads/2012/05/tangle-fat-schema-300x190.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />](http://www.froland.be/images/uploads/2012/05/tangle-fat-schema.jpg)
+[<img class="alignnone size-medium wp-image-47" title="tangle-fat schema" src="{{ site.baseurl }}/imagesuploads/2012/05/tangle-fat-schema.jpg?w=300" alt="" width="300" height="190" srcset="{{ site.baseurl }}/images/uploads/2012/05/tangle-fat-schema.jpg 512w, {{ site.baseurl }}/images/uploads/2012/05/tangle-fat-schema-300x190.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />]({{ site.baseurl }}/imagesuploads/2012/05/tangle-fat-schema.jpg)
 
 This diagram shows the link between tangles and fatness. This means that you can eliminate all tangles pretty easily by moving everything to the same place. But then you get 100% fatness. To the contrary, you can eliminate fatness by partitioning your code-base. But then you create tangles. What you seek is a compromise between the two. What you really don&#8217;t want is a code-base that is both fat and full of tangles.
 
