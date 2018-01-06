@@ -1,11 +1,8 @@
 ---
-id: 172
 title: 'Java 8 and beyond #devoxx #dv13 by @mreinold and @BrianGoetz'
 date: 2013-11-15T08:39:41+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=172
-permalink: /?p=172
 publicize_facebook_url:
   - https://facebook.com/10152048803566489
 publicize_twitter_user:

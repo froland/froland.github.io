@@ -1,11 +1,8 @@
 ---
-id: 177
 title: 'Practical RESTful persistence by @shaunmsmith at #devoxx'
 date: 2013-11-15T08:48:31+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=177
-permalink: /?p=177
 publicize_facebook_url:
   - https://facebook.com/10152048815811489
 publicize_twitter_user:

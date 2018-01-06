@@ -1,11 +1,8 @@
 ---
-id: 21
 title: JavaFX 2.0 BeJUG conference
 date: 2012-04-25T07:00:37+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=21
-permalink: /?p=21
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:438989878;a:2:{s:7:"user_id";s:8:"FrRoland";s:7:"post_id";s:18:"195044656722083840";}}s:2:"fb";a:1:{i:819471488;a:2:{s:7:"user_id";s:9:"819471488";s:7:"post_id";s:17:"10150777449216489";}}}'
 categories:

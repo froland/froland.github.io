@@ -1,11 +1,8 @@
 ---
-id: 56
 title: 'Fork/Join and Akka: parallelizing the Java platform BeJUG conference'
 date: 2012-06-07T11:32:35+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=56
-permalink: /?p=56
 categories:
   - BeJUG conference
   - Java

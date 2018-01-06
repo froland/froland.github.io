@@ -1,11 +1,8 @@
 ---
-id: 72
 title: Modular Java BeJUG conference
 date: 2012-06-29T13:25:15+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=72
-permalink: /?p=72
 image: /images/uploads/2012/06/logo_osgi.jpg
 categories:
   - BeJUG conference

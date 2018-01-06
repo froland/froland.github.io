@@ -1,11 +1,8 @@
 ---
-id: 6
 title: Hibernate Spatial BeJUG conference
 date: 2012-03-15T22:48:46+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=3
-permalink: /?p=6
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:438989878;a:2:{s:7:"user_id";s:8:"FrRoland";s:7:"post_id";s:18:"180425343071555584";}}s:2:"fb";a:1:{i:819471488;a:2:{s:7:"user_id";s:9:"819471488";s:7:"post_id";s:17:"10150683202056489";}}}'
 categories:

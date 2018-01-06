@@ -1,11 +1,8 @@
 ---
-id: 110
 title: 'Devoxx 2012 article: How to make good teams great'
 date: 2012-12-11T11:45:27+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=110
-permalink: /?p=110
 publicize_twitter_user:
   - FrRoland
 image: /images/uploads/2012/12/7-things-how-to-make-good-teams-great1.png

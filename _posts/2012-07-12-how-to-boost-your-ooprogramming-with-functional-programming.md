@@ -1,11 +1,8 @@
 ---
-id: 83
 title: How to boost your object-oriented programming with functional programming
 date: 2012-07-12T08:45:48+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=83
-permalink: /?p=83
 categories:
   - BruJUG conference
   - Java

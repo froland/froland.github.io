@@ -1,11 +1,8 @@
 ---
-id: 15
 title: PlayFramework 2.0 BeJUG conference
 date: 2012-04-21T15:42:46+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=15
-permalink: /?p=15
 publicize_results:
   - 'a:2:{s:7:"twitter";a:1:{i:438989878;a:2:{s:7:"user_id";s:8:"FrRoland";s:7:"post_id";s:18:"193726482609209345";}}s:2:"fb";a:1:{i:819471488;a:2:{s:7:"user_id";s:9:"819471488";s:7:"post_id";s:17:"10150768849226489";}}}'
 categories:

@@ -1,11 +1,8 @@
 ---
-id: 183
 title: 'Shaping the future of web development by Lars Bak at #devoxx'
 date: 2013-11-15T09:05:38+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=183
-permalink: /?p=183
 publicize_facebook_url:
   - https://facebook.com/10152048839576489
 publicize_linkedin_url:

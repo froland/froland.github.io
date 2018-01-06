@@ -1,11 +1,8 @@
 ---
-id: 160
 title: 'Fault tolerance made easy by @ufried at #devoxx'
 date: 2013-11-15T08:09:12+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=160
-permalink: /?p=160
 publicize_linkedin_url:
   - 'http://www.linkedin.com/updates?discuss=&scope=13385405&stype=M&topic=5807026282172944384&type=U&a=YR9z'
 publicize_facebook_url:

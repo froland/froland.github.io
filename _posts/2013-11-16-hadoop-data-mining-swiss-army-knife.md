@@ -1,11 +1,8 @@
 ---
-id: 195
 title: 'Hadoop data-mining swiss army knife by @plopezFr and @BertrandDechoux at #devoxx #DV13-HadoopCode'
 date: 2013-11-16T13:34:55+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=195
-permalink: /?p=195
 categories:
   - Java
 tags:

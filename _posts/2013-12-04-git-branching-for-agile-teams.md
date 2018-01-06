@@ -1,11 +1,8 @@
 ---
-id: 209
 title: Git Branching for Agile teams
 date: 2013-12-04T12:36:27+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=209
-permalink: /?p=209
 image: /images/uploads/2013/12/119365398262159379.jpg
 categories:
   - Software development

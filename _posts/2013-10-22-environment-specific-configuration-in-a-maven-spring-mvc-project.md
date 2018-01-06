@@ -1,11 +1,8 @@
 ---
-id: 132
 title: Environment-specific configuration in a maven-spring-mvc project
 date: 2013-10-22T09:05:16+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=132
-permalink: /?p=132
 publicize_linkedin_url:
   - 'http://www.linkedin.com/updates?discuss=&scope=13385405&stype=M&topic=5798343085951836160&type=U&a=mTVV'
 publicize_facebook_url:

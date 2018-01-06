@@ -1,11 +1,8 @@
 ---
-id: 103
 title: 'Devoxx 2012 Oracle keynote: Make the Future Java'
 date: 2012-11-27T16:29:21+00:00
 author: froland
 layout: post
-guid: http://frroland.wordpress.com/?p=103
-permalink: /?p=103
 publicize_twitter_user:
   - FrRoland
 categories:
