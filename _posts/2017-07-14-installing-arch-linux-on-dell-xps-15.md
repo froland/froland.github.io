@@ -1,11 +1,8 @@
 ---
-id: 237
 title: Installing Arch Linux on Dell XPS 15
 date: 2017-07-14T09:24:12+00:00
 author: froland
 layout: post
-guid: http://www.froland.be/?p=237
-permalink: /?p=237
 categories:
   - Linux
 ---
