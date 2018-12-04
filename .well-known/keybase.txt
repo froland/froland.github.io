@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/froland
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://froland.be
+  * I am froland (https://keybase.io/froland) on keybase.
+  * I have a public key ASAqWhjRlM7jUxydMWLDgaS_naB8lglufEMPAV1_A6fXHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c584cc6cd96034c206a09350dbc7f1eac258bd92c0fc24faca2666b7fd2e98930a",
+      "host": "keybase.io",
+      "kid": "01202a5a18d194cee3531c9d3162c381a4bf9da07c96096e7c430f015d7f03a7d71c0a",
+      "uid": "bfd85d2f30c2ca43765e1a150af25e19",
+      "username": "froland"
+    },
+    "merkle_root": {
+      "ctime": 1543924570,
+      "hash": "9ea246a00da993af9707b844931761c2e83891e87a71bd9e883e2eabd3946301855ee217b7cb9f47e4e6ddf7f51948f1dfb139ba21f24442cfaf2dee9464e47d",
+      "hash_meta": "b750c8af12b98cdc7d36c4887d2fa904a7c7417f84b3f74d75cc7309b0c735a9",
+      "seqno": 4049262
+    },
+    "service": {
+      "entropy": "R5uMuDj1kiBF5BVV6SkR65Bt",
+      "hostname": "froland.be",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1543924617,
+  "expire_in": 504576000,
+  "prev": "47321123a670273975534fec0b06112f4dd8568d535f4e636ef5af52160626c6",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKloY0ZTO41McnTFiw4Gkv52gfJYJbnxDDwFdfwOn1xwKp3BheWxvYWTESpcCFMQgRzIRI6ZwJzl1U0/sCwYRL03YVo1TX05jbvWvUhYGJsbEICzcVwp5aZ65Lb+xOlLRclLnnwh0KYbT1IDmGm7ixRNZAgHCo3NpZ8RAgAucuD0+hrpB4PHIm+x9SVDlppcUdqjTFQxFCGh3At5cz5gs0PYbwQpZ39HE5/tcdzzIApR8wMLTP6E35cLIDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGrWAMscteTJTr95uC5yiF5f2wNKEMSyTiP8p0VA/EpPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/froland
+
+==================================================================
