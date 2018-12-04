@@ -14,6 +14,7 @@ If you want to learn more about me:
 
   * [http://be.linkedin.com/in/francoisroland](http://be.linkedin.com/in/francoisroland "LinkedIn public profile")
   * [http://knowledgeblackbelt.com/#!User/froland](http://knowledgeblackbelt.com/#!User/froland "KnowledgeBlackBelt user page")
+  * https://keybase.io/froland
 
 [
   
